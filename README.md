@@ -12,10 +12,9 @@ This project is a simple web-based calculator application built using Spring Boo
 ## Getting Started
 To run this application, you need to have Java and Maven installed. You can check if you have them installed by running the following commands:
 
-```bash
-java --version
-mvn --version
-´´´
+`java --version`
+
+`mvn --version`
 
 ## How the App Works
 - The CalculatorApplication class is the entry point of the application. It initializes the Spring Boot application.
