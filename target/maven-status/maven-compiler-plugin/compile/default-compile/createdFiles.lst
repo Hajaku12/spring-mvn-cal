@@ -1,2 +1,3 @@
-edu\escuelaing\arsw\GreetingController.class
-edu\escuelaing\arsw\ServingWebContentApplication.class
+edu/escuelaing/arsw/model/OperationMemory.class
+edu/escuelaing/arsw/CalculatorApplication.class
+edu/escuelaing/arsw/controller/MathOperationsController.class
