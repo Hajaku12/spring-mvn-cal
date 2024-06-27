@@ -31,6 +31,7 @@ This will generate the documentation in the target/site/apidocs directory.
 
 ## Software Architecture Diagram
 
+´´´bash
 +------------------------+
 |   CalculatorApplication|
 |     (Spring Boot App)  |
@@ -53,7 +54,7 @@ This will generate the documentation in the target/site/apidocs directory.
 |   calculator_view.html |
 |     (Thymeleaf View)   |
 +------------------------+
-
+´´´
 
 ## How to Deply with Maven 
 To build and deploy the application using Maven, run the following command:
